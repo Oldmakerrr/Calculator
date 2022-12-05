@@ -1,6 +1,6 @@
 # Calculator
 
-
+An ordinary calculator made as part of the CS193P course
 
 <p float="center">
 <img src="https://user-images.githubusercontent.com/92182846/205642211-878ffb1b-7b3b-4f49-a2b0-6c53ce319778.png" width=30% height=30%>
